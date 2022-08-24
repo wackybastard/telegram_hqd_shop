@@ -5,4 +5,4 @@ Used technologies:
 - sqlite
 - peewee
 
-Config file filled as example. You can configurate bot as you wish!
+Config file and database filled as example. You can configurate bot as you wish!
